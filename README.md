@@ -44,6 +44,11 @@ Bu proje, bir sağlık veri seti üzerinde **keşifsel veri analizi (EDA)** ve g
    - **Countplot / barplot**: Kategorik kolonların dağılımları  
    - **Yüzdelik heatmap**: Oranları görmek için  
    - Örnek analizler:
-     - Cinsiyet × Kronik Hastalık  
-     - Yaş Aralığı × Cinsiyet × Kronik Hastalık  
-     - Kan Grubu × Uygulama Yerleri  
+     - Cinsiyet × Bölüm
+     - Tedavi Süresi x Yaş
+     - Kan Grubu x Kronik Hastalık
+     - Yaş Aralığı × Cinsiyet × Kronik Hastalık
+     - Uygulama Süreleri
+     - Uygulama Yerleri
+     - Kronik Hastalık × Uygulama Yerleri
+     - Uyruk x Kronik Hastalık
